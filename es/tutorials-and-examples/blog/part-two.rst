@@ -617,9 +617,6 @@ Ahora la URL '/' nos llevará al controlador 'posts' y la acción 'index'.
 Conclusión
 ==========
 
-Creando aplicaciones de este modo te traerá paz, amor, dinero a carretas e
-incluso te conseguirá lo demás que puedas querer. Así de simple.
-
 Ten en cuenta que este tutorial es muy básico, CakePHP tiene *muchas* otras
 cosas que harán tu vida más fácil, y es flexible aunque no hemos cubierto aquí
 estos puntos para que te sea más simple al principio. Usa el resto de este
