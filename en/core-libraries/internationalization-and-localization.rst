@@ -577,7 +577,7 @@ the current locale setting and use the right classes::
     use Cake\I18n\Time;
     use Cake\I18n\Number;
 
-    I18n::setLocale('fr-FR');
+    I18n::setLocale('fr_FR');
 
     $date = new Time('2015-04-05 23:00:00');
 
